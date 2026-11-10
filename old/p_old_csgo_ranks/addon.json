@@ -1,0 +1,28 @@
+{
+	"name": "Old CS:GO Ranks",
+	"author": "sashie",
+	"social": "https://allmylinks.com/sashie",
+	"authors": 
+	[
+		{
+			"name": "sashie", 
+			"social": "https://twitter.com/sashiezzz", 
+			"role": "I did the rest ^O^"
+		},
+		{
+			"name": "kimi", 
+			"social": "https://www.youtube.com/channel/UCiq0OLCm1wOtsEreHXLZOBw", 
+			"role": "Testing"
+		},
+		{
+			"name": "sapphire", 
+			"social": "https://steamcommunity.com/profiles/76561199132260473", 
+			"role": "Testing"
+		},
+		{
+			"name": "Valve", 
+			"role": "Original assets"
+		}
+	],
+	"replacement": "Ranks"
+}

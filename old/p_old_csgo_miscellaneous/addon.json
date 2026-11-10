@@ -1,0 +1,18 @@
+{
+	"name": "Old CS:GO Miscellaneous",
+	"author": "sashie",
+	"social": "https://steamcommunity.com/id/sashie",
+	"authors": 
+	[
+		{
+			"name": "sashie", 
+			"social": "https://allmylinks.com/sashie", 
+			"role": "Original author of the addon"
+		},
+		{
+			"name": "Valve", 
+			"role": "Original assets"
+		}
+	],
+	"replacement": "Models/Materials/Textures/Particles/Images"
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Old CS:GO Sounds",
+	"author": "sashie",
+	"social": "https://www.instagram.com/sashiezzz/",
+	"authors": 
+	[
+		{
+			"name": "kimi", 
+			"social": "https://steamcommunity.com/profiles/76561198283471151", 
+			"role": "Assisting"
+		},
+		{
+			"name": "valve", 
+			"role": "Original assets"
+		}
+	],
+	"replacement": "Sounds"
+}

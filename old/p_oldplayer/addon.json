@@ -1,0 +1,17 @@
+{
+	"name": "Old Playermodels with Hands (Worldmodel and Viewmodel)",
+	"author": "lolznoboz",
+	"social": "damn",
+	"authors":
+	[
+		{
+			"name": "Fesiug", 
+			"role": "Old Glove models"
+		},
+		{
+			"name": "Sashie", 
+			"role": "Old Glove models"
+		}
+	],
+	"replacement": "Adds old playermodels + old hands"
+}

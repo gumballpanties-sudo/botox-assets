@@ -1,0 +1,23 @@
+{
+	"name": "Old CSGO Scaleform Inventory Inspect",
+	"author": "sashie",
+	"social": "https://allmylinks.com/sashie",
+	"authors": 
+	[
+		{
+			"name": "sashie", 
+			"social": "https://steamcommunity.com/profiles/76561198869846756", 
+			"role": "I did the rest ^_^"
+		},
+		{
+			"name": "Crazymodder", 
+			"social": "https://www.youtube.com/channel/UCikZnb4OWnQmwzNkZE6hBRA",
+			"role": "MASSIVE SHOUTOUT for fixing the lighting, doing the weapon inspect, doing the medal inspect, and HELPING!!!"
+		},
+		{
+			"name": "Valve", 
+			"role": "Original assets"
+		}
+	],
+	"replacement": "Scaleform Inventory Inspect For Panorama"
+}
